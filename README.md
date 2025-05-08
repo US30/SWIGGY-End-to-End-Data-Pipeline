@@ -43,4 +43,4 @@ The data pipeline follows a structured approach:
 - Python environment with `streamlit` installed
 - Basic familiarity with SQL and data warehousing concepts
 
-![Uploading image.png…]()
+
